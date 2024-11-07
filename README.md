@@ -1,2 +1,9 @@
-<h1>I LOVE HAM</h1>
-<p>ham is delicious</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ankush's Website</title>
+    </head>
+  <body>
+    <p>Hello World</p>
+  </body>
+</html>
